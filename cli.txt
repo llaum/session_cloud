@@ -1,0 +1,4 @@
+
+
+
+aws ec2 run-instances --image-id ami-0adcddd3324248c4c --instance-type t2.micro --user-data file://user_data_cloud_init.sh --security-groups demo-cloud-secu --key-name session_cloud_key_pair
