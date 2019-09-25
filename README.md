@@ -2,6 +2,7 @@
 
 ## Regions
 eu-central-1  Frankfurt
+
 eu-west-3     Paris
 
 ## AMI
